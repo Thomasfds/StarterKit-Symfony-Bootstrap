@@ -8,6 +8,6 @@ Starter kit pour Symfony avec le framework Bootstrap prêt à l'usage.
 > https://github.com/Thomasfds/StarterKit-Symfony-Bootstrap.git
 
 2.Installation avec Composer
-> Composer install
+> composer install
 
 3. C'est terminer !
