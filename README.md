@@ -1,5 +1,5 @@
 # StarterKit-Symfony-Bootstrap
-Starter kit pour Symfony avec le framework Bootstrap prêt à l'usage.
+Starter kit pour Symfony (5.2.3) avec le framework Bootstrap prêt à l'usage.
 
 
 # Installation
